@@ -39,7 +39,7 @@ switch (userChoice) {
         break;
     case "spotify-this-song":
         //function name for this case
-        console.log("got to spotify case")
+        //console.log("got to spotify case")
         spotifyThis();
         break;
     case "movie-this":
@@ -60,7 +60,7 @@ switch (userChoice) {
 // Spotify Function
 function spotifyThis() {
 
-    // Catch empty input, supply default song "Convoy"
+    // Catch empty input, supply default song "Convoy" my funny choice
     if (!userQuery) {
         userQuery = "Convoy";
     }
