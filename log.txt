@@ -1,0 +1,772 @@
+Title: The Longest Day
+----------------
+Country/Countries Produced: USA
+----------------
+Language: English, German, French
+----------------
+IMDB rating: 7.8
+----------------
+Rotten Tomatoes Rating: 87%
+----------------
+Plot: The events of D-Day, told on a grand scale from both the Allied and German points of view.
+----------------
+Cast: Eddie Albert, Paul Anka, Arletty, Jean-Louis Barrault
+----------------
+Year Released: 1962
+----------------
+Title: Patton
+----------------
+Country/Countries Produced: USA
+----------------
+Language: English, German, French, Russian, Arabic, Italian
+----------------
+Plot: The World War II phase of the career of controversial American general George S. Patton.
+----------------
+Rotten Tomatoes Rating: 96%
+----------------
+Year Released: 1970
+----------------
+Cast: George C. Scott, Karl Malden, Stephen Young, Michael Strong
+----------------
+IMDB rating: 7.9
+----------------
+Please enter a valid search term, such as {concert-this},
+----------------
+{spotify-this-song}, {movie-this}, or {do-what-it-says}
+----------------
+Venue Name: Parc del Fòrum
+----------------
+Venue Location: Locarno, Switzerland
+----------------
+Date of the Event: 07/11/2020
+----------------
+Venue Name: Piazza Grande
+----------------
+Venue Location: Sant Adrià De Besòs, Spain
+----------------
+Date of the Event: 07/04/2020
+----------------
+Artist: Rush
+----------------
+Song Name: 2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale - Medley
+----------------
+Preview Link: null
+----------------
+Album: 2112
+----------------
+TypeError: Cannot read property 'artists' of undefined
+----------------
+Artist: C.W. McCall
+----------------
+Song Name: Convoy
+----------------
+Preview Link: null
+----------------
+Album: C.W. McCall's Greatest Hits
+----------------
+Please enter a valid search term, such as {concert-this},
+----------------
+{spotify-this-song}, {movie-this}, or {do-what-it-says}
+----------------
+Artist: Backstreet Boys
+----------------
+Song Name: I Want It That Way
+----------------
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8636a2e430b04be795287274189088a3
+----------------
+Album: The Hits--Chapter One
+----------------
+Title: Patton
+----------------
+Year Released: 1970
+----------------
+IMDB rating: 7.9
+----------------
+Rotten Tomatoes Rating: 96%
+----------------
+Country/Countries Produced: USA
+----------------
+Cast: George C. Scott, Karl Malden, Stephen Young, Michael Strong
+----------------
+Plot: The World War II phase of the career of controversial American general George S. Patton.
+----------------
+Language: English, German, French, Russian, Arabic, Italian
+----------------
+Title: Patton
+----------------
+Rotten Tomatoes Rating: 96%
+----------------
+Language: English, German, French, Russian, Arabic, Italian
+----------------
+Plot: The World War II phase of the career of controversial American general George S. Patton.
+----------------
+Cast: George C. Scott, Karl Malden, Stephen Young, Michael Strong
+----------------
+IMDB rating: 7.9
+----------------
+Country/Countries Produced: USA
+----------------
+Year Released: 1970
+----------------
+Title: Patton
+----------------
+Year Released: 1970
+----------------
+Rotten Tomatoes Rating: 96%
+----------------
+Country/Countries Produced: USA
+----------------
+IMDB rating: 7.9
+----------------
+Language: English, German, French, Russian, Arabic, Italian
+----------------
+Plot: The World War II phase of the career of controversial American general George S. Patton.
+----------------
+Cast: George C. Scott, Karl Malden, Stephen Young, Michael Strong
+----------------
+Artist: Backstreet Boys
+----------------
+Song Name: I Want It That Way
+----------------
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8636a2e430b04be795287274189088a3
+----------------
+Album: The Hits--Chapter One
+----------------
+Venue Name: Parc del Fòrum
+----------------
+Venue Location: Locarno, Switzerland
+----------------
+Date of the Event: 07/11/2020
+----------------
+Date of the Event: 07/04/2020
+----------------
+Venue Location: Sant Adrià De Besòs, Spain
+----------------
+Venue Name: Piazza Grande
+----------------
+Venue Name: Parc del Fòrum
+----------------
+Venue Location: Locarno, Switzerland
+----------------
+Date of the Event: 07/11/2020
+----------------
+Venue Name: Piazza Grande
+----------------
+Venue Location: Sant Adrià De Besòs, Spain
+----------------
+Date of the Event: 07/04/2020
+----------------
+Artist: Aerosmith
+----------------
+Preview Link: https://p.scdn.co/mp3-preview/f744fafea7f807dd79503249f4238a21393daf8f?cid=8636a2e430b04be795287274189088a3
+----------------
+Song Name: Walk This Way
+----------------
+Album: Toys In The Attic
+----------------
+Venue Name: Parc del Fòrum
+----------------
+Venue Location: Sant Adrià De Besòs, Spain
+----------------
+Date of the Event: 07/04/2020
+----------------
+Venue Name: Piazza Grande
+----------------
+Venue Location: Locarno, Switzerland
+----------------
+Date of the Event: 07/11/2020
+----------------
+Artist: Don McLean
+----------------
+Song Name: American Pie
+----------------
+Preview Link: null
+----------------
+Album: American Pie
+----------------
+Artist: C.W. McCall
+----------------
+Song Name: Convoy
+----------------
+Album: C.W. McCall's Greatest Hits
+----------------
+Preview Link: null
+----------------
+Artist: Don McLean
+----------------
+Preview Link: null
+----------------
+Album: American Pie
+----------------
+Song Name: American Pie
+----------------
+Venue Name: IFEMA Palacio Municipal
+----------------
+Venue Location: Madrid, Spain
+----------------
+Date of the Event: 02/28/2020
+----------------
+Venue Name: Colosseo Theater
+----------------
+Venue Location: Legnano, Italy
+----------------
+Venue Name: Aula UAM
+----------------
+Date of the Event: 03/27/2020
+----------------
+Venue Location: Poznań, Poland
+----------------
+Date of the Event: 04/06/2020
+----------------
+Venue Name: Cirkus
+----------------
+Venue Location: Stockholm, Sweden
+----------------
+Date of the Event: 05/30/2020
+----------------
+Venue Name: BASE DE LOISIRS DE PRATGRAUSSALS
+----------------
+Venue Location: Albi, France
+----------------
+Date of the Event: 07/12/2020
+----------------
+Venue Name: Freilichtbühne Schwerin
+----------------
+Venue Location: Schwerin, Germany
+----------------
+Venue Name: Burgtheater Dinslaken
+----------------
+Date of the Event: 07/18/2020
+----------------
+Venue Location: Dinslaken, Germany
+----------------
+Date of the Event: 07/19/2020
+----------------
+Venue Name: Parkbühne (Clara Zetkin Park)
+----------------
+Venue Location: Leipzig, Germany
+----------------
+Date of the Event: 07/23/2020
+----------------
+Venue Name: Junge Garde
+----------------
+Venue Location: Dresden, Germany
+----------------
+Date of the Event: 07/24/2020
+----------------
+Venue Name: Burg Creuzburg
+----------------
+Venue Location: Creuzburg Bei Eisenach, Germany
+----------------
+Date of the Event: 08/07/2020
+----------------
+Venue Name: Städtisches Museum Schloß Salder
+----------------
+Venue Location: Salzgitter, Germany
+----------------
+Date of the Event: 08/08/2020
+----------------
+Venue Location: Aylesbury, United Kingdom
+----------------
+Venue Name: Aylesbury Waterside Theatre
+----------------
+Date of the Event: 09/30/2020
+----------------
+Venue Name: De Montfort Hall
+----------------
+Venue Location: Leicester, United Kingdom
+----------------
+Date of the Event: 10/01/2020
+----------------
+Venue Name: King George's Hall
+----------------
+Venue Location: Blackburn, United Kingdom
+----------------
+Date of the Event: 10/03/2020
+----------------
+Venue Location: Perth, United Kingdom
+----------------
+Venue Name: Perth Concert Hall
+----------------
+Date of the Event: 10/04/2020
+----------------
+Venue Name: Pavilion Theatre
+----------------
+Venue Location: Glasgow, United Kingdom
+----------------
+Venue Name: Victoria Hall - Stoke-on-Trent
+----------------
+Date of the Event: 10/05/2020
+----------------
+Venue Location: Stoke-on-trent, United Kingdom
+----------------
+Date of the Event: 10/06/2020
+----------------
+Venue Name: O2 Empire Shepherds Bush
+----------------
+Venue Location: London, United Kingdom
+----------------
+Date of the Event: 10/08/2020
+----------------
+Venue Name: Brighton Dome
+----------------
+Venue Location: Brighton, United Kingdom
+----------------
+Date of the Event: 10/09/2020
+----------------
+Venue Name: Lighthouse, Poole's Centre for the Arts
+----------------
+Venue Location: Poole, United Kingdom
+----------------
+Date of the Event: 10/10/2020
+----------------
+Venue Name: The Hexagon
+----------------
+Venue Location: Reading, United Kingdom
+----------------
+Date of the Event: 10/12/2020
+----------------
+Venue Name: The Forum
+----------------
+Venue Location: Bath, United Kingdom
+----------------
+Date of the Event: 03/25/2020
+----------------
+Venue Name: Operaen, Holmen
+----------------
+Venue Location: København K, Denmark
+----------------
+Date of the Event: 10/25/2020
+----------------
+Venue Name: Rosengarten Mozartsaal
+----------------
+Venue Location: Mannheim, Germany
+----------------
+Date of the Event: 11/09/2020
+----------------
+Venue Name: Forum am Schloßpark-Theatersaal
+----------------
+Venue Location: Ludwigsburg, Germany
+----------------
+Venue Location: Torino, Italy
+----------------
+Venue Name: Zirkus Krone München
+----------------
+Venue Location: München, Germany
+----------------
+Date of the Event: 11/11/2020
+----------------
+Venue Name: Teatro Galleria
+----------------
+Date of the Event: 11/10/2020
+----------------
+Date of the Event: 10/13/2020
+----------------
+Venue Name: Adirondack Bank Center
+----------------
+Venue Location: Loma, United States
+----------------
+Date of the Event: 06/21/2020
+----------------
+Venue Name: Country USA
+----------------
+Venue Location: Oshkosh, United States
+----------------
+Date of the Event: 06/25/2020
+----------------
+Venue Name: Heartland Stampede
+----------------
+Venue Location: Topeka, United States
+----------------
+Date of the Event: 06/26/2020
+----------------
+Venue Name: NebraskaLand Days
+----------------
+Venue Location: North Platte, United States
+----------------
+Date of the Event: 06/27/2020
+----------------
+Venue Name: Nugget Event Center
+----------------
+Venue Location: Sparks, United States
+----------------
+Date of the Event: 07/11/2020
+----------------
+Venue Name: LaPorte County Fairgrounds
+----------------
+Venue Location: La Porte, United States
+----------------
+Venue Name: Bell MTS Place
+----------------
+Venue Location: Winnipeg, Canada
+----------------
+Date of the Event: 07/16/2020
+----------------
+Date of the Event: 07/24/2020
+----------------
+Venue Name: Thunder by the Bay
+----------------
+Venue Location: Thunder Bay, Canada
+----------------
+Date of the Event: 07/25/2020
+----------------
+Venue Location: Jackson, United States
+----------------
+Venue Name: Jackson County Fairgrounds
+----------------
+Date of the Event: 08/09/2020
+----------------
+Venue Location: Allentown, United States
+----------------
+Venue Name: Allentown Fairgrounds
+----------------
+Date of the Event: 09/03/2020
+----------------
+Venue Name: Country Jam Colorado
+----------------
+Venue Location: Utica, United States
+----------------
+Date of the Event: 06/04/2020
+----------------
+Venue Name: Adirondack Bank Center
+----------------
+Date of the Event: 06/04/2020
+----------------
+Date of the Event: 06/21/2020
+----------------
+Venue Name: Country USA
+----------------
+Venue Location: Oshkosh, United States
+----------------
+Date of the Event: 06/25/2020
+----------------
+Venue Name: Heartland Stampede
+----------------
+Venue Location: Topeka, United States
+----------------
+Date of the Event: 06/26/2020
+----------------
+Venue Name: NebraskaLand Days
+----------------
+Venue Location: North Platte, United States
+----------------
+Date of the Event: 06/27/2020
+----------------
+Venue Name: Nugget Event Center
+----------------
+Venue Location: Sparks, United States
+----------------
+Date of the Event: 07/11/2020
+----------------
+Venue Name: LaPorte County Fairgrounds
+----------------
+Venue Location: La Porte, United States
+----------------
+Date of the Event: 07/16/2020
+----------------
+Venue Name: Bell MTS Place
+----------------
+Venue Location: Winnipeg, Canada
+----------------
+Date of the Event: 07/24/2020
+----------------
+Venue Name: Thunder by the Bay
+----------------
+Venue Location: Thunder Bay, Canada
+----------------
+Date of the Event: 07/25/2020
+----------------
+Venue Name: Jackson County Fairgrounds
+----------------
+Venue Location: Jackson, United States
+----------------
+Date of the Event: 08/09/2020
+----------------
+Venue Name: Allentown Fairgrounds
+----------------
+Venue Location: Allentown, United States
+----------------
+Date of the Event: 09/03/2020
+----------------
+Venue Location: Utica, United States
+----------------
+Venue Location: Loma, United States
+----------------
+Venue Name: Country Jam Colorado
+----------------
+Venue Name: Parc del Fòrum
+----------------
+Venue Location: Locarno, Switzerland
+----------------
+Date of the Event: 07/11/2020
+----------------
+Date of the Event: 07/04/2020
+----------------
+Venue Location: Sant Adrià De Besòs, Spain
+----------------
+Venue Name: Piazza Grande
+----------------
+Title: Patton
+----------------
+Year Released: 1970
+----------------
+Language: English, German, French, Russian, Arabic, Italian
+----------------
+Plot: The World War II phase of the career of controversial American general George S. Patton.
+----------------
+Cast: George C. Scott, Karl Malden, Stephen Young, Michael Strong
+----------------
+IMDB rating: 7.9
+----------------
+Rotten Tomatoes Rating: 96%
+----------------
+Country/Countries Produced: USA
+----------------
+Title: Patton
+----------------
+Year Released: 1970
+----------------
+Country/Countries Produced: USA
+----------------
+Plot: The World War II phase of the career of controversial American general George S. Patton.
+----------------
+Cast: George C. Scott, Karl Malden, Stephen Young, Michael Strong
+----------------
+Rotten Tomatoes Rating: 96%
+----------------
+Language: English, German, French, Russian, Arabic, Italian
+----------------
+IMDB rating: 7.9
+----------------
+Artist: Backstreet Boys
+----------------
+Song Name: I Want It That Way
+----------------
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8636a2e430b04be795287274189088a3
+----------------
+Album: The Hits--Chapter One
+----------------
+Artist: Backstreet Boys
+----------------
+Song Name: I Want It That Way
+----------------
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8636a2e430b04be795287274189088a3
+----------------
+Album: The Hits--Chapter One
+----------------
+Artist: Lady Gaga
+----------------
+Album: The Fame
+----------------
+Preview Link: null
+----------------
+Song Name: Poker Face
+----------------
+Title: undefined
+----------------
+Year Released: undefined
+----------------
+IMDB rating: undefined
+----------------
+Title: Candy Stripers
+----------------
+Year Released: 2006
+----------------
+IMDB rating: 3.2
+----------------
+Title: Cocoon
+----------------
+IMDB rating: 6.7
+----------------
+Language: English
+----------------
+Plot: When a group of trespassing seniors swim in a pool containing alien cocoons, they find themselves energized with youthful vigor.
+----------------
+Rotten Tomatoes Rating: 77%
+----------------
+Cast: Don Ameche, Wilford Brimley, Hume Cronyn, Brian Dennehy
+----------------
+Year Released: 1985
+----------------
+Country/Countries Produced: USA
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 01/22/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Date of the Event: 01/26/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 01/28/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 01/29/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 01/31/2020
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Venue Name: Unipol Arena - Casalecchio di Reno
+----------------
+Venue Location: Casalecchio Di Reno, Italy
+----------------
+Date of the Event: 03/14/2020
+----------------
+Venue Name: Hallenstadion
+----------------
+Venue Location: Zürich, Switzerland
+----------------
+Date of the Event: 03/15/2020
+----------------
+Venue Name: Tauron Arena Krakow
+----------------
+Venue Location: Kraków, Poland
+----------------
+Date of the Event: 03/17/2020
+----------------
+Venue Name: Papp Laszlo Arena
+----------------
+Venue Location: Budapest, Hungary
+----------------
+Date of the Event: 03/19/2020
+----------------
+Venue Name: Wiener Stadthalle Halle D
+----------------
+Venue Location: Vienna, Austria
+----------------
+Date of the Event: 03/20/2020
+----------------
+Venue Name: Olympiahalle
+----------------
+Venue Location: Munich, Germany
+----------------
+Date of the Event: 03/22/2020
+----------------
+Venue Name: Lanxess Arena
+----------------
+Venue Location: Cologne, Germany
+----------------
+Date of the Event: 03/23/2020
+----------------
+Venue Name: SPORTPALEIS
+----------------
+Venue Location: Merksem, Belgium
+----------------
+Date of the Event: 03/24/2020
+----------------
+Venue Name: The SSE Hydro
+----------------
+Venue Location: Glasgow, United Kingdom
+----------------
+Date of the Event: 03/26/2020
+----------------
+Venue Name: The O2
+----------------
+Venue Location: London, United Kingdom
+----------------
+Date of the Event: 03/27/2020
+----------------
+Venue Name: 3Arena
+----------------
+Date of the Event: 02/01/2020
+----------------
+Venue Location: Dublin, Ireland
+----------------
+Venue Name: Ziggo Dome
+----------------
+Venue Location: Amsterdam Zuidoost, Netherlands
+----------------
+Date of the Event: 03/31/2020
+----------------
+Venue Name: Oslo Spektrum Arena
+----------------
+Venue Location: Oslo, Norway
+----------------
+Date of the Event: 04/02/2020
+----------------
+Venue Name: Ericsson Globe
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 04/03/2020
+----------------
+Venue Name: Hartwall Arena
+----------------
+Venue Location: Helsinki, Finland
+----------------
+Date of the Event: 04/05/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 05/13/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 05/15/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 05/16/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 05/17/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 05/20/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 05/22/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 05/23/2020
+----------------
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+----------------
+Venue Location: Las Vegas, United States
+----------------
+Date of the Event: 05/24/2020
+----------------
+Date of the Event: 01/24/2020
+----------------
+Date of the Event: 03/29/2020
+----------------
+Venue Location: Stockholm, Sweden
+----------------
