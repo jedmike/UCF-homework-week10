@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+In this assignment, I will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 ### Before You Begin
 
@@ -10,7 +10,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 2. Make a new GitHub repository called liri-node-app and clone it to your computer.
 
-3. To retrieve the data that will power this app, you'll need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.
+3. To retrieve the data that will power this app, we need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.
 
    * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
 
@@ -22,49 +22,13 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
    
-## Submission Guide
+## Where I will submit
 
-Create and use a standard GitHub repository. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. This time you'll need to include screenshots, a GIF, and/or a video showing us that you have the app working with no bugs. You can include these screenshots/GIFs or a link to a video in a `README.md` file.
 
-In order to meet the Employer Competitive standards and be ready to show your application to employers, the `README.md` file should meet the following criteria:
 
-1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
-2. Give a high-level overview of how the app is organized
-3. Give start-to-finish instructions on how to run the app
-4. Include screenshots, gifs or videos of the app functioning
-5. Contain a link to a deployed version of the app
-6. Clearly list the technologies used in the app
-7. State your role in the app development
+1. Navigate to the root of your project and run `npm init -y` &mdash; this will initialize a `package.json` file for your project. The `package.json` file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.---DONE
 
-Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading in this assignment.
-
-If you haven't written a markdown file yet, [click here for a rundown](https://guides.github.com/features/mastering-markdown/), or just take a look at the raw file of these instructions.
-
-### Commits
-
-Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
-
-* Committing often is a signal to employers that you are actively working on your code and learning.
-
-  * We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
-
-  * Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
-
-* Be clear and descriptive in your commit messaging.
-
-  * When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
-
-### Submission on BCS
-
-* Please submit the link to the Github Repository!
-
-### Instructions
-
-1. Navigate to the root of your project and run `npm init -y` &mdash; this will initialize a `package.json` file for your project. The `package.json` file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.
-
-2. Make a `.gitignore` file and add the following lines to it. This will tell git not to track these files, and thus they won't be committed to Github.
+2. Make a `.gitignore` file and add the following lines to it. This will tell git not to track these files, and thus they won't be committed to Github.---DONE
 
 ```
 node_modules
@@ -72,7 +36,7 @@ node_modules
 .env
 ```
 
-3. Make a JavaScript file named `keys.js`.
+3. Make a JavaScript file named `keys.js`.---DONE
 
 * Inside keys.js your file will look like this:
 
@@ -80,18 +44,27 @@ node_modules
 console.log('this is loaded');
 
 exports.spotify = {
-  id: process.env.SPOTIFY_ID,
-  secret: process.env.SPOTIFY_SECRET
+    id: process.env.SPOTIFY_ID,
+    secret: process.env.SPOTIFY_SECRET
 };
+exports.bands = {
+    id: process.env.BANDSINTOWN_API_KEY
+}
+
+exports.movieThis = {
+    id: process.env.OMDB_API_KEY
+}
 ```
 
-4. Next, create a file named `.env`, add the following to it, replacing the values with your API keys (no quotes) once you have them:
+4. Next, create a file named `.env`, add the following to it, replacing the values with your API keys (no quotes) once you have them:---DONE
 
 ```js
-# Spotify API keys
+ Spotify API keys
 
-SPOTIFY_ID=your-spotify-id
-SPOTIFY_SECRET=your-spotify-secret
+SPOTIFY_ID=8636a2e430b04be79528727418XXXXXX
+SPOTIFY_SECRET=3f34ad9bd80e43b58d9211e97bXXXXXX
+BANDSINTOWN_API_KEY=codingboXXXXXX
+OMDB_API_KEY=70XXXXXX
 
 ```
 
@@ -99,13 +72,15 @@ SPOTIFY_SECRET=your-spotify-secret
 
 * If someone wanted to clone your app from github and run it themselves, they would need to supply their own `.env` file for it to work.
 
-5. Make a file called `random.txt`.
+5. Make a file called `random.txt`.---DONE
 
-   * Inside of `random.txt` put the following in with no extra characters or white space:
+   * Inside of `random.txt` put the following in with no extra characters or white space: I changed this.
+   I decided to seperate each entry and return for readability.
+   If you remove + "\n----------------\n" form liri.js line 148  it will remoce white space.......
 
-     * spotify-this-song,"I Want it That Way"
+     * spotify-this-song,"I Want it That Way"-- DONE LAST 
 
-6. Make a JavaScript file named `liri.js`.
+6. Make a JavaScript file named `liri.js`.---DONE
 
 7. At the top of the `liri.js` file, add code to read and set any environment variables with the dotenv package:
 
@@ -113,19 +88,19 @@ SPOTIFY_SECRET=your-spotify-secret
 require("dotenv").config();
 ```
 
-8. Add the code required to import the `keys.js` file and store it in a variable.
+8. Add the code required to import the `keys.js` file and store it in a variable.---DONE
 
 ```js
   var keys = require("./keys.js");
 ```
   
-* You should then be able to access your keys information like so
+* You should then be able to access your keys information like so---DONE
 
   ```js
   var spotify = new Spotify(keys.spotify);
   ```
 
-9. Make it so liri.js can take in one of the following commands:
+9. Make it so liri.js can take in one of the following commands:---DONE
 
    * `concert-this`
 
@@ -137,7 +112,7 @@ require("dotenv").config();
 
 ### What Each Command Should Do
 
-1. `node liri.js concert-this <artist/band name here>`
+1. `node liri.js concert-this <artist/band name here>`---DONE
 
    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
 
@@ -147,11 +122,8 @@ require("dotenv").config();
 
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-    * **Important**: There is no need to sign up for a Bands in Town `api_id` key. Use the `codingbootcamp` as your `app_id`. For example, the URL used to search for "Celine Dion" would look like the following:
-
-      * `https://rest.bandsintown.com/artists/celine+dion/events?app_id=codingbootcamp`
-
-2. `node liri.js spotify-this-song '<song name here>'`
+    
+2. `node liri.js spotify-this-song '<song name here>'`---DONE
 
    * This will show the following information about the song in your terminal/bash window
 
@@ -163,7 +135,8 @@ require("dotenv").config();
 
      * The album that the song is from
 
-   * If no song is provided then your program will default to "The Sign" by Ace of Base.
+   * If no song is provided then your program will default to:
+    "Convoy" by CW McCall.
 
    * You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
 
@@ -177,7 +150,7 @@ require("dotenv").config();
 
    * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
 
-3. `node liri.js movie-this '<movie name here>'`
+3. `node liri.js movie-this '<movie name here>'`---DONE
 
    * This will output the following information to your terminal/bash window:
 
@@ -200,7 +173,7 @@ require("dotenv").config();
 
    * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
-4. `node liri.js do-what-it-says`
+4. `node liri.js do-what-it-says`---DONE
 
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
@@ -208,7 +181,7 @@ require("dotenv").config();
 
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-### BONUS
+### BONUS---DONE
 
 * In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
 
@@ -218,34 +191,17 @@ require("dotenv").config();
 
 ### Reminder: Submission on BCS
 
-* Please submit the link to the Github Repository!
+* Please submit the link to the Github Repository! 
+https://github.com/jedmike/UCF-homework-week10
 
 - - -
 
-### Minimum Requirements
 
-Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Adding a README.md as well as adding this homework to your portfolio are required as well and more information can be found below.
 
-- - -
-
-### Create a README.md
-
-Add a `README.md` to your repository describing the project. Here are some resources for creating your `README.md`. Here are some resources to help you along the way:
-
-* [About READMEs](https://help.github.com/articles/about-readmes/)
-
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-- - -
-
-### Add To Your Portfolio
+### Add To Your Portfolio: --DONE
+https://jedmike.github.io/UCF_homework_week1portfolio/
 
 After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
 
 - - -
 
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
