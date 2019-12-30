@@ -23,9 +23,20 @@ In this assignment, I will make LIRI. LIRI is like iPhone's SIRI. However, while
    * [DotEnv](https://www.npmjs.com/package/dotenv)
    
 ## Where I will submit
+All files in a github repo:
+https://github.com/jedmike/UCF-homework-week10
+
+All images that show correct operation (screenshots):
+https://github.com/jedmike/UCF-homework-week10/tree/master/images
+
+Updagted portfolio:
+https://jedmike.github.io/UCF_homework_week1portfolio/
 
 
 
+
+
+## What I need to do (from instructions)
 1. Navigate to the root of your project and run `npm init -y` &mdash; this will initialize a `package.json` file for your project. The `package.json` file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.---DONE
 
 2. Make a `.gitignore` file and add the following lines to it. This will tell git not to track these files, and thus they won't be committed to Github.---DONE
